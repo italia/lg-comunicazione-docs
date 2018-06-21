@@ -21,7 +21,7 @@ Anche per l’informazione di servizio il cittadino “mette sul podio” i cana
 Il sito web istituzionale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo il canale    per presentare le tue attività e al tempo stesso il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online. Ricordati di organizzare i contenuti in modo chiaro, semplice e trasparente.
+Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo canale per presentare le tue attività e al tempo stesso il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online. Ricordati di organizzare i contenuti in modo chiaro, semplice e trasparente.
 
 Ricordati di:
 
@@ -95,7 +95,7 @@ La Newsletter
 
 Migliora il rapporto con i tuoi cittadini adottando soluzioni di Citizen Relationship Management (CRM). Con l’iscrizione alla newsletter, il cittadino sceglie di far entrare la tua amministrazione nella mailbox personale per ricevere notizie, informazioni e dati utili su temi di suo interesse. 
 
-Grazie a questo strumento, la tua amministrazione può organizzare in maniera mirata le comunicazioni e gli aggiornamenti e innescare un ingaggio diretto per la promozione dei  servizi..
+Grazie a questo strumento, la tua amministrazione può organizzare in maniera mirata le comunicazioni e gli aggiornamenti e innescare un ingaggio diretto per la promozione dei  servizi.
 
 .. admonition:: DEVI
 
