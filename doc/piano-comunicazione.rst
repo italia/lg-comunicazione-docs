@@ -55,7 +55,7 @@ guarda cosa è stato fatto, confronta la tua esperienza con quella realizzata da
 
    - Confrontarti subito con chi ha sviluppato il servizio per avere informazioni complete ed entrare davvero nel progetto. Capisci          chi è coinvolto e con quale ruolo, informati da subito sugli sviluppi futuri.
 
-   - Capire perché nasce il servizio, a quali bisogni del target risponde, qual è la cornice strategica (nazionale e locale)                  all’interno della quale si contestualizza.
+   - Capire perché nasce il servizio, a quali bisogni del target risponde, qual è la cornice strategica (nazionale e locale) all’interno della quale si contestualizza.
 
 .. admonition:: DOVRESTI
 
@@ -63,7 +63,7 @@ guarda cosa è stato fatto, confronta la tua esperienza con quella realizzata da
 
 .. admonition:: POTRESTI
 
-   Analizzare e misurare la risposta del cittadino rispetto al servizio offerto: comprensione, utilizzo e soddisfazione. Puoi legare        l’ascolto del target alle attività di monitoraggio per migliorare o modificare la tua strategia in modo da capire immediatamente se    nascono nuove evidenze.
+   Analizzare e misurare la risposta del cittadino rispetto al servizio offerto: comprensione, utilizzo e soddisfazione. Puoi legare l’ascolto del target alle attività di monitoraggio per migliorare o modificare la tua strategia in modo da capire immediatamente se nascono nuove evidenze.
 
 
 Cosa vuoi ottenere? Definisci gli obiettivi di comunicazione
