@@ -237,3 +237,6 @@ Nelle `Linee Guida di Design per i servizi
 digitali <https://design-italia.readthedocs.io/>`__ della PA troverai
 tutti i riferimenti utili per impostare una corretta strategia SEO e
 SEM.
+
+.. discourse::
+   :topic_identifier: 4804

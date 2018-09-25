@@ -75,3 +75,6 @@ potrai trovare diversi partner limitrofi.
 .. admonition:: POTRESTI
 
    Sperimentare il co-marketing per la promozione di un solo servizio e poi definire una strategia che comprenda una serie di attività da pianificare rispetto alle esigenze di entrambi e alla risposta dei cittadini.
+
+.. discourse::
+   :topic_identifier: 4805

@@ -268,3 +268,6 @@ possano compromettere la tua relazione con lui.
 .. admonition:: POTRESTI
 
    Usare i dati che hai raccolto per organizzare campagne che possano mettere al centro le esigenze del cittadino, come il numero di utenti che ha già utilizzato uno specifico servizio.
+
+.. discourse::
+   :topic_identifier: 4806
