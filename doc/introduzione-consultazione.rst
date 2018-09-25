@@ -24,4 +24,4 @@ Arricchire il perimetro di indicazioni, suggerimenti e proposte, redatte in moda
 
 **Come partecipare**
 
-Le Linee Guida sulla Promozione dei Servizi Digitali sono pubblicate su Docs Italia ed è possibile commentarle su Forum Italia fino al 27 ottobre 2018.
+Le Linee Guida sulla Promozione dei Servizi Digitali sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <https://forum.italia.it/c/documenti-in-consultazione/lg-marketing>`_ fino al 27 ottobre 2018.
