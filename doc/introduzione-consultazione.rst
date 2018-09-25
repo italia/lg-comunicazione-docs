@@ -3,7 +3,7 @@
 
 **Informazioni sulla consultazione**
 
-- **Documento:** Il Marketing per la promozione dei servizi pubblici digitali
+- **Documento:** `Il Marketing per la promozione dei servizi pubblici digitali <https://comunica-lg.readthedocs.io/it/latest/doc/marketing.html>`_
 
 - **Durata della consultazione:** dal 26 settembre al 27 ottobre 2018
 
