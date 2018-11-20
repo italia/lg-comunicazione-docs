@@ -33,6 +33,4 @@ I contenuti del sito che saranno pubblicati hanno l’obiettivo di sensibilizzar
 
 .. admonition:: **CONSULTAZIONE PUBBLICA**
    
-   La consultazione pubblica si è conclusa in data 27 ottobre 2018.
-   Le Linee guida per la Promozione dei Servizi Digitali sono state sottoposte a consultazione pubblica.
    Si sono concluse le consultazioni sulle linee guida di comunicazione per la promozione dei servizi digitali e di storytelling e     marketing dei servizi digitali rispettivamente il 23 giugno, il 7 settembre e il 27 ottobre 2018.
