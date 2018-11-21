@@ -8,7 +8,6 @@ L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo
    :maxdepth: 2
 
    doc/intro_linee-guida.rst
-   doc/introduzione-consultazione.rst
    doc/marketing.rst
    doc/promozione-servizi-digitali.rst
    doc/storytelling.rst
