@@ -2,7 +2,7 @@ Dalle media relations alla organizzazione degli eventi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Il ruolo dei media: il digitale fa notizia
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 I mezzi di informazione, locali e nazionali, hanno un ruolo fondamentale nella promozione dei servizi digitali. Considerali i tuoi partner per raggiungere un ampio numero di persone. Condividi con i giornalisti le novità che riguardano un servizio già dalla fase di studio e poi di lancio, aggiornali sempre sugli sviluppi.
 
@@ -20,7 +20,7 @@ I mezzi di informazione, locali e nazionali, hanno un ruolo fondamentale nella p
 
 
 La comunicazione diretta: URP, canali fisici ed eventi sul territorio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 La comunicazione attraverso canali fisici rappresenta un punto di incontro fondamentale per avvicinare i cittadini e le imprese alla pubblica amministrazione, sia in fase di lancio sia in fase di aggiornamento o miglioramento di un servizio.
 
@@ -28,7 +28,7 @@ Sono diverse le modalità con le quali puoi raggiungere i tuoi interlocutori.
 
 
 La comunicazione agli sportelli
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Spesso, è il primo punto di contatto tra amministrazione e cittadini, luogo in cui si raccolgono i bisogni e i feedback degli utenti. È un canale privilegiato per formare e supportare i cittadini con meno competenze digitali. Condividi gli obiettivi strategici delle attività di comunicazione relative alla promozione dei servizi digitali con il personale impegnato agli sportelli, il loro supporto è di fondamentale importanza in tutte le fasi di promozione del servizio.
 

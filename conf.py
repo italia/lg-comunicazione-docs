@@ -57,11 +57,7 @@ extensions = [
 templates_path = ['_templates']
 
 # The suffix of source filenames.
-source_parsers = {
-    '.md': CommonMarkParser,
-}
-
-source_suffix = ['.rst', '.md']
+source_suffix = ['.rst']
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
@@ -164,7 +160,7 @@ else:
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+#html_static_path = ['_static']
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
@@ -249,7 +245,7 @@ latex_logo = "media/agid-logo.png"
 latex_show_pagerefs = False
 
 # If true, show URL addresses after external links.
-latex_show_urls = False
+latex_show_urls = 'no'
 
 # Documents to append as an appendix to all manuals.
 #latex_appendices = []

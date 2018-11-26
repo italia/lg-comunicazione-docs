@@ -1,5 +1,5 @@
-﻿“Canali” dello storytelling
-----------------------------
+"Canali" dello storytelling
+---------------------------
 
 Per fare storytelling utilizza il canale più funzionale alla tua storia.
 Non tutti gli strumenti digitali sono uguali, scegli il migliore!

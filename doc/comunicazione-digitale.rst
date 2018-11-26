@@ -1,5 +1,5 @@
 La comunicazione digitale per la promozione dei servizi
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Anche per l’informazione di servizio il cittadino “mette sul podio” i canali di comunicazione digitale. In questi canali nasce, cresce e si rafforza la reputazione del tuo ente e dei servizi che offre, è fondamentale saperli gestire al meglio per creare un vero rapporto di fiducia e di dialogo tra cittadino e PA.
 
@@ -19,7 +19,7 @@ Anche per l’informazione di servizio il cittadino “mette sul podio” i cana
    
    
 Il sito web istituzionale
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo canale per presentare le tue attività e al tempo stesso il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online.
 
@@ -56,8 +56,8 @@ Ricordati di:
    - spiegare in maniera informale e attraverso una narrazione coinvolgente, come funzionano processi complessi e che impatto hanno sui cittadini.
 
 
-Oltre il sito c’è di più. Gli altri strumenti online.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Oltre il sito c’è di più. Gli altri strumenti online
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Il sito istituzionale non è l’unico strumento che puoi utilizzare sul web, puoi rafforzare la comunicazione dei tuoi servizi e migliorare il dialogo con i cittadini servendoti anche di altri strumenti e canali di comunicazione online come: siti tematici, landing page, newsletter e mail dedicate.
 
@@ -95,7 +95,7 @@ La landing page contiene una descrizione chiara e accattivante delle caratterist
 
 
 La Newsletter 
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^
 
 Migliora il rapporto con i tuoi cittadini adottando soluzioni di Citizen Relationship Management (CRM). Con l’iscrizione alla newsletter, il cittadino sceglie di far entrare la tua amministrazione nella mailbox personale per ricevere notizie, informazioni e dati utili su temi di suo interesse. 
 
@@ -123,7 +123,7 @@ Ricorda che è molto importante curare le liste di invio. Assicurati di:
 
 
 I social media
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^
 
 I social media sono spazi di relazione che permettono sia la socializzazione e l’interazione con il contenuto sia il racconto dei tuoi servizi con tecniche narrative coinvolgenti come lo storytelling. 
 
@@ -271,7 +271,7 @@ Pensa a YouTube come un motore di ricerca: è qui che sempre più spesso i citta
 
 
 Le App di messaggistica istantanea (Whatsapp e Telegram)
-*********************************************************
+********************************************************
 
 Grazie a strumenti come le app di messaggistica hai a disposizione uno strumento diretto per raggiungere il cittadino nei “luoghi” di conversazione quotidiana sul suo smartphone, diffondendo così le informazioni in modo semplice ed istantaneo. Anytime, anywhere.
 

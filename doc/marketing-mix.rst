@@ -1,5 +1,5 @@
 Marketing mix: le differenze tra il tradizionale e il digitale
------------------------------------------------------------------
+--------------------------------------------------------------
 
 Ricordati che il marketing è ovunque e il mix è non è una mera somma di
 due elementi o canali.
@@ -29,7 +29,7 @@ qualche vantaggio in più:
 
 
 Cerca i cittadini dove sai di poterli già trovare: strumenti tradizionali e online
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Non dimenticare i canali tradizionali: stampa, televisione e radio sono
 un punto di riferimento, soprattutto per quei cittadini che non hanno
@@ -52,7 +52,7 @@ strumento che utilizzi.
    Costruire una strategia integrata con l’uso di più canali, veicolando un messaggio univoco coerente, prestando sempre attenzione alla natura dei singoli media.
 
 Definisci le attività di co-marketing/partnership
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Vuoi raggiungere un target più ampio? Usa una logica collaborativa.
 Quando esistono fabbisogni comuni per servizi affini e/o analoghi, puoi

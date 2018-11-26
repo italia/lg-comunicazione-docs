@@ -43,7 +43,7 @@ Nei paragrafi dedicati troverai indicazioni utili per affrontare ciascuna di que
 
 
 Dove ti trovi? Analizza e confronta il contesto e il servizio
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dedica del tempo all’analisi del servizio che offri al cittadino o alle imprese e ai vantaggi che comporta. Devi capire tu per primo le caratteristiche del servizio - anche quelle tecniche - per poterlo comunicare al meglio. Fai come faresti con un’auto da comprare: valuta gli aspetti positivi da valorizzare e tieni presente quelli critici.
 È probabile che qualcuno prima di te si sia trovato a lanciare un servizio uguale o simile: guarda cosa è stato fatto, confronta la tua esperienza con quella realizzata da altre amministrazioni e prendi spunto (valgono sia le esperienze positive che quelle negative!).
@@ -66,7 +66,7 @@ Dedica del tempo all’analisi del servizio che offri al cittadino o alle impres
 
 
 Cosa vuoi ottenere? Definisci gli obiettivi di comunicazione
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gli obiettivi di comunicazione, nel caso dei servizi digitali, riguardano: la conoscenza del servizio, il vantaggio percepito dal cittadino nel suo utilizzo, l’aumento della diffusione e la soddisfazione degli utenti.
 
@@ -98,7 +98,7 @@ Più saranno chiari i tuoi obiettivi, più facile sarà raggiungerli adattandosi
 
 
 A chi vuoi parlare? Analizza i destinatari della tua azione di comunicazione
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per promuovere al meglio un servizio digitale è fondamentale sapere a chi è indirizzato: devi individuare e conoscere nel dettaglio il tuo target per capire come raggiungerlo.
 Una volta messe a fuoco le `personas <http://design-italia.readthedocs.io/it/stable/doc/service-design/gestione-dei-progetti.html#personas-e-profili-utente>`_, ossia i destinatari dei messaggi, cerca di segmentarli il più possibile e non trascurare le loro abitudini digitali e non.
@@ -122,7 +122,7 @@ Se non hai dati e informazioni di dettaglio sulle caratteristiche e sul livello 
 
 
 Quanto puoi spendere? Definisci il budget
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 È indispensabile pianificare un budget sostenibile dalla tua organizzazione e che venga impiegato efficacemente per raggiungere gli obiettivi di comunicazione. Ricordati che esistono diversi fondi per finanziare le attività di comunicazione su questi temi, verifica quali sono quelli che hai a disposizione. Se non hai budget non scoraggiarti e metti in moto le idee. Si può fare una comunicazione efficace anche senza grandi risorse economiche.
 
@@ -140,7 +140,7 @@ Quanto puoi spendere? Definisci il budget
 
 
 Dove vuoi dirlo? Scegli i mezzi di comunicazione e definisci una strategia media
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 Una volta definiti target e budget è il momento di pianificare i mezzi più adatti a veicolare il tuo messaggio al tuo target. 
 Ricordati che, per raggiungere il destinatario del servizio digitale che vuoi comunicare, potrai scegliere sia i canali offline che quelli online così da valorizzare al massimo la tua strategia di comunicazione. 
@@ -194,7 +194,7 @@ Questi alcuni dei messaggi che non puoi fare a meno di declinare nella tua comun
 
 
 Come è andata? Misura l’efficacia delle tue attività di comunicazione
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 È fondamentale fare un’analisi dei risultati che ottieni nel corso di ogni fase. Misura sempre la tua comunicazione: hai diverse possibilità a disposizione in base agli strumenti che utilizzi.
 
@@ -210,8 +210,8 @@ Come è andata? Misura l’efficacia delle tue attività di comunicazione
  
    Consultare il tuo target con brevi questionari, potrai valutare in modo diretto l’efficacia e la diffusione delle azioni di comunicazione che hai messo in campo: non aver paura di chiedere ai tuoi interlocutori quali sono state le mancanze rilevate nella fase appena conclusa, le informazioni che otterrai ti serviranno per orientare le attività future.
 
-Qualcosa è andato storto. Gestione della crisi nella comunicazione.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Qualcosa è andato storto. Gestione della crisi nella comunicazione
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Metti a punto un piano che ti aiuti a gestire la comunicazione della tua amministrazione in situazioni di emergenza relative alla fruizione di un servizio. Sicuramente ti capiterà di dover gestire critiche derivanti da incomprensioni, problemi tecnici o malfunzionamento del servizio. Non spaventarti! La comunicazione, se gestita bene, ti aiuterà ad affrontare anche questa situazione
 

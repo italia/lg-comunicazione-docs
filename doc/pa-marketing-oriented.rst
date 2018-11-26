@@ -1,6 +1,6 @@
 
 Perché una PA marketing-oriented?
-------------------------------------
+---------------------------------
 
 Cosa intendiamo quando parliamo di una PA marketing oriented?
 
@@ -16,7 +16,7 @@ Rendere la tua PA un’amministrazione marketing oriented significa:
    di avvicinarsi in maniera semplice all’utilizzo del digitale.
 
 Definisci il Piano di Marketing
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Il piano di marketing è un insieme di obiettivi, strategie, strumenti ed
 azioni che ti consentono di identificare:
@@ -64,8 +64,8 @@ oppure per apportare le modifiche necessarie.
 *Nei paragrafi successivi troverai indicazioni utili per affrontare
 ognuna di queste fasi.*
 
-Dove ti trovi? Esplora la realtà che ti circonda.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Dove ti trovi? Esplora la realtà che ti circonda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Analizza l’ambiente e il contesto. Per individuare come cominciare a
 promuovere i tuoi servizi digitali è importante avere un’idea di quali
@@ -89,7 +89,7 @@ Valuta gli elementi esterni, le sfide e le opportunità che nascono
    Includere nell’analisi altri elementi dello scenario che ritieni abbiano un ruolo importante. Ad esempio l’età media della tua popolazione di riferimento.
 
 Cosa vuoi ottenere? Definisci gli obiettivi
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Non dimenticare le esigenze e le caratteristiche specifiche degli utenti
 che vuoi raggiungere: ad obiettivi diversi corrispondono strategie
@@ -118,7 +118,7 @@ I tuoi obiettivi dovranno essere:
    Avviare delle attività continue di monitoraggio dei tuoi destinatari per verificare nel tempo la rispondenza dei tuoi obiettivi.
 
 A chi vuoi parlare? Identifica il tuo target
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Traccia un profilo ideale del tuo target. Non solo dati anagrafici, ma
 anche dati allo stile di vita: ad esempio l’uso della tecnologia e
@@ -143,7 +143,7 @@ azioni da realizzare.
    Utilizzare le informazioni raccolte, soprattutto i feedback degli utenti, per organizzare meglio il lavoro interno della tua amministrazione, non solo del tuo ufficio.
 
 Analizza i fabbisogni dei cittadini per soddisfare meglio le loro richieste (Analisi della domanda)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Capire i reali fabbisogni dei cittadini ai quali devi rivolgerti ti
 permette di definire strategie personalizzate di marketing dei servizi.
@@ -161,7 +161,7 @@ permette di definire strategie personalizzate di marketing dei servizi.
    Far ricorso ad indagini di mercato o di customer satisfaction per approfondire le caratteristiche dei tuoi utenti.
 
 Quali sono le tue risorse? Definisci il budget (e pianifica i controlli)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Una volta che hai compreso dove ti trovi, cosa vuoi ottenere e qual è il
 tuo target, puoi stabilire le risorse necessarie per la promozione del
@@ -177,7 +177,7 @@ punto del percorso ti trovi rispetto al tuo traguardo. Se incontri degli
 ostacoli, puoi correggere la gestione in corso d’opera.
 
 Delinea la strategia
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 
 La pianificazione strategica è la fase in cui metti insieme tutte le
 informazioni raccolte e prepari la tattica per promuovere al meglio i
@@ -212,7 +212,7 @@ tenga presente che sono fondamentali:
 
 
 Come è andata? Il monitoraggio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Il monitoraggio ti aiuterà a stabilire se c’è qualcosa che non sta
 funzionando e a capire dove intervenire in maniera tempestiva.
@@ -234,7 +234,7 @@ obiettivi che vuoi raggiungere sono sostenibili.
 
 
 La customer satisfaction
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Leggi e consulta i dati che hai raccolto con il monitoraggio per avere
 sempre presente il grado di soddisfazione del cittadino rispetto alle
