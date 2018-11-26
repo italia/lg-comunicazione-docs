@@ -1,5 +1,5 @@
 Gli strumenti per il marketing
----------------------------------
+------------------------------
 
 Definisci un piano di comunicazione che sia coerente con i tuoi obiettivi. Le attività di comunicazione riflettono l’impostazione del
 piano di marketing e hanno un valore strategico per la tua organizzazione.
@@ -17,7 +17,7 @@ con il tuo utente.
 
 
 Il marketing dei big data e della business intelligence 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Lo scenario con cui andiamo a confrontarci quando operiamo in tutte le
 sfere attinenti alla comunicazione e al marketing è l’esigenza sempre
@@ -45,7 +45,7 @@ cittadino.
 
 
 Il Digital Marketing
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 Il digital marketing ti consente di utilizzare strumenti diversificati
 per raggiungere obiettivi specifici a costi inferiori. Utilizza i tuoi
@@ -98,7 +98,7 @@ Creare una strategia di contenuto diversa in base ai tuoi target.
 
 
 Influencer Marketing e Digital PR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hai chiara la differenza tra promuovere e influenzare?
 
@@ -120,7 +120,7 @@ territorio.
 
 
 Il Social Advertising
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 
 Utilizza la Rete considerandola come un canale di offerta. È il momento
 di attrezzare il tuo “banco” e presentare i servizi digitali che la tua
@@ -142,7 +142,7 @@ la comunicazione in modo più preciso e capillare avvicinando i tuoi
 messaggi agli interessi mostrati dai tuoi stessi cittadini.
 
 Conversational Marketing
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Attiva conversazioni “one to one” in tempo reale con i tuoi cittadini
 attraverso le chat, gli sms, la messaggistica istantanea.
@@ -178,7 +178,7 @@ internet dedicato).
    Utilizzare gli strumenti del conversational marketing per gestire le emergenze, ad esempio il malfunzionamento di un servizio che in uno specifico periodo viene utilizzato da un alto numero di persone.
 
 Customer Relationship Management CRM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Utilizza strumenti di CRM per personalizzare le azioni di marketing e
 comunicazione, raggiungendo obiettivi più puntuali ed efficaci per la
@@ -206,7 +206,7 @@ più precisa i loro interessi anche rispetto ai servizi che offri!
 
 
 SEO e SEM
-~~~~~~~~~~~~~
+~~~~~~~~~
 
 Finora sono state presentate regole, raccomandazioni, consigli e
 suggerimenti finalizzati a elaborare e attuare strategie di marketing

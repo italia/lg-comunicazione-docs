@@ -1,4 +1,4 @@
-﻿Lo storytelling per promuovere i servizi pubblici
+Lo storytelling per promuovere i servizi pubblici
 -------------------------------------------------
 
 Hai capito come e perché può aiutarti lo storytelling?

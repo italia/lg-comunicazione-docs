@@ -1,4 +1,4 @@
-﻿Racconta e coinvolgi. Perché usare lo storytelling?
+Racconta e coinvolgi. Perché usare lo storytelling?
 ===================================================
 
 Fare storytelling non vuol dire “raccontare storie” ma “comunicare

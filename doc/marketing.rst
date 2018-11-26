@@ -1,5 +1,5 @@
 Il Marketing per la promozione dei servizi pubblici digitali
-===============================================================
+============================================================
 
 Il Marketing è una metodologia strutturata per ripensare in chiave
 strategica la relazione con il cittadino e creare valore per tutta la

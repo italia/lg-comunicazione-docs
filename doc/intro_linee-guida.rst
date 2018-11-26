@@ -1,5 +1,5 @@
 Linee Guida per la Promozione dei Servizi Digitali 
-====================================================================
+==================================================
 
 Le Linee Guida per la Promozione dei Servizi Digitali si compongono di tre aree tematiche:
 
