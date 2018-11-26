@@ -3,9 +3,9 @@ Linee Guida per la Promozione dei Servizi Digitali
 
 Le Linee Guida per la Promozione dei Servizi Digitali si compongono di tre aree tematiche:
 
-- `Comunicazione <https://comunica-lg.readthedocs.io/it/latest/doc/promozione-servizi-digitali.html>`_ 
-- `Marketing <https://comunica-lg.readthedocs.io/it/latest/doc/marketing.html>`_
-- `Storytelling <https://comunica-lg.readthedocs.io/it/latest/doc/storytelling.html>`_ 
+- :ref:`Comunicazione <promozione-servizi-digitali>` 
+- :ref:`Marketing <marketing>`
+- :ref:`Storytelling <storytelling>` 
 
 
 Siamo consapevoli che solo adottando un’ottica di miglioramento continuo e collaborazione possiamo rendere le LG efficaci, utili e pratiche per il maggior numero di persone e applicabili nei contesti della PA più differenti.

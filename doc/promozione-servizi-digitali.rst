@@ -1,3 +1,5 @@
+.. _promozione-servizi-digitali:
+
 La comunicazione per la promozione dei servizi digitali
 =======================================================
 

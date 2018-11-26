@@ -1,4 +1,6 @@
-﻿Lo storytelling dei servizi digitali
+.. _storytelling:
+
+Lo storytelling dei servizi digitali
 ====================================
 
 Per raccontare come cambia il rapporto tra amministrazioni e cittadini è necessario creare una narrazione coinvolgente, semplice ed empatica: crea il tuo personaggio, una trama, scegli i tempi e gli strumenti migliori per raccontare la sua avventura!
