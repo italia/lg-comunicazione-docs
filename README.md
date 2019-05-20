@@ -20,3 +20,10 @@ I risultati della consultazione pubblica on line saranno presi in considerazione
 Link al documento Docs Italia: https://comunica-lg.readthedocs.io
 
 Link per commenti Forum Italia: https://forum.italia.it/t/lg-promozione-servizi-digitali-analytics-e-social-insights/3406
+
+.. image:: media/logo_agenzia_coesione.png
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: agenzia coesione
+   :align: right
