@@ -1,3 +1,7 @@
++---------+---------+---------+---------+---------+
+| |logo1| | |logo2| | |logo3| | |logo4| | |logo5| |
++---------+---------+---------+---------+---------+
+
 Linee Guida per la Promozione dei Servizi Digitali
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -28,8 +32,3 @@ L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo
    
 .. |logo5| image::  media/LOGOPON.png
    :align: top
-
-
-+---------+---------+---------+---------+---------+
-| |logo1| | |logo2| | |logo3| | |logo4| | |logo5| |
-+---------+---------+---------+---------+---------+
