@@ -4,7 +4,7 @@ Linee Guida per la Promozione dei Servizi Digitali
 L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo e coordinamento dei percorsi di crescita digitale della PA, crea, aggiorna e stimola la diffusione di **Linee Guida per la Promozione dei Servizi Digitali** che possano sostenere le pubbliche amministrazioni nella definizione di strategie di comunicazione, marketing e racconto sempre più rispondenti alla necessità di favorire la conoscenza e l’utilizzo dei servizi digitali da parte di cittadini e imprese.
    
 +---------+---------+---------+---------+---------+
-| |logo2|   |logo1|   |logo5|   |logo4|   |logo3| |
+| |logo1| | |logo2| | |logo3| | |logo4| | |logo5| |
 +---------+---------+---------+---------+---------+
 
 .. toctree::
