@@ -17,7 +17,7 @@ L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo
 .. image:: media/logo_agenzia_coesione.png
    :width: 25%
    
-.. image:: media/agid-logo.png.png
+.. image:: media/agid-logo.png
    :width: 25%
    
 .. image:: media/logo_funzione_pubblica.png
