@@ -15,19 +15,18 @@ L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo
    doc/glossario.rst
 
 .. |logo1| image:: media/logo_agenzia_coesione.png    
-   :scale: 50%
-   :align: middle
+   :align: top
+   
 .. |logo2| image::  media/agid-logo.png
-   :scale: 20%
    :align: top
+
 .. |logo3| image::  media/Unione_Europea.png
-   :scale: 50%
    :align: top
+   
 .. |logo4| image::  media/logo_funzione_pubblica.png
-   :scale: 50%
    :align: top
+   
 .. |logo5| image::  media/LOGOPON.png
-   :scale: 50%
    :align: top
 
 
