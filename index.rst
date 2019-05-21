@@ -1,4 +1,4 @@
-inee Guida per la Promozione dei Servizi Digitali
+Linee Guida per la Promozione dei Servizi Digitali
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 
 L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo e coordinamento dei percorsi di crescita digitale della PA, crea, aggiorna e stimola la diffusione di **Linee Guida per la Promozione dei Servizi Digitali** che possano sostenere le pubbliche amministrazioni nella definizione di strategie di comunicazione, marketing e racconto sempre più rispondenti alla necessità di favorire la conoscenza e l’utilizzo dei servizi digitali da parte di cittadini e imprese.
@@ -15,10 +15,10 @@ L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo
    doc/glossario.rst
 
 .. |logo1| image:: media/logo_agenzia_coesione.png    
-   :scale: 100%
+   :scale: 50%
    :align: middle
 .. |logo2| image::  media/agid-logo.png
-   :scale: 50%
+   :scale: 20%
    :align: top
 .. |logo3| image::  media/Unione_Europea.png
    :scale: 50%
