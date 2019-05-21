@@ -15,11 +15,16 @@ L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo
    doc/glossario.rst
 
 .. image:: media/logo_agenzia_coesione.png
-   :width: 30%
-   :alt: agenzia coesione
-.. image:: media/logo_agenzia_coesione.png
-   :width: 30%
-   :alt: agenzia coesione
-.. image:: media/logo_agenzia_coesione.png
-   :width: 30%
-   :alt: agenzia coesione
+   :width: 25%
+   
+.. image:: media/agid-logo.png.png
+   :width: 25%
+   
+.. image:: media/logo_funzione_pubblica.png
+   :width: 25%
+   
+.. image:: media/Unione_Europea.png
+   :width: 25%
+   
+.. image:: media/LOGOPON.png
+   :width: 25%
