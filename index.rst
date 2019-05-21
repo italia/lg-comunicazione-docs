@@ -13,3 +13,13 @@ L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo
    doc/storytelling.rst
    doc/analytics.rst
    doc/glossario.rst
+
+   .. image:: media/logo_agenzia_coesione.png
+      :width: 30%
+      :alt: agenzia coesione
+   .. image:: media/logo_agenzia_coesione.png
+      :width: 30%
+      :alt: agenzia coesione
+   .. image:: media/logo_agenzia_coesione.png
+      :width: 30%
+      :alt: agenzia coesione
